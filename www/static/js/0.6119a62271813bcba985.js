@@ -1,0 +1,2 @@
+webpackJsonp([0],{lmfZ:function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"card"},[e("h4",{staticClass:"card-header"},[this._v("Документы (Всего: "+this._s(this.totalItems)+"): ")])])},staticRenderFns:[]};var n=s("VU/8")({name:"LoginPage"},a,!1,function(t){s("wo+t")},"data-v-416f9d7c",null);e.default=n.exports},"wo+t":function(t,e){}});
+//# sourceMappingURL=0.6119a62271813bcba985.js.map

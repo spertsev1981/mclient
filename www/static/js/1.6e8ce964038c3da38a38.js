@@ -1,0 +1,2 @@
+webpackJsonp([1],{"5Y54":function(t,e,s){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var a={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"card"},[e("h4",{staticClass:"card-header"},[this._v("Документы (Всего: "+this._s(this.totalItems)+"): ")])])},staticRenderFns:[]};var n=s("VU/8")({name:"DocumentsPage",data:function(){return{totalItems:0}}},a,!1,function(t){s("sXtp")},"data-v-3e3de7de",null);e.default=n.exports},sXtp:function(t,e){}});
+//# sourceMappingURL=1.6e8ce964038c3da38a38.js.map
